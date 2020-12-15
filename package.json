@@ -1,0 +1,17 @@
+{
+  "name": "mongoapp",
+  "version": "1.0.0",
+  "description": "administration db app",
+  "main": "createDB.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.6.3",
+    "mongoose": "^5.11.7",
+    "node-menu": "^1.3.0",
+    "update": "^0.7.4"
+  }
+}
